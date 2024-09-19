@@ -2,12 +2,13 @@
 // import { bulbasaur, pokemons } from './bases/02-objects.ts'
 // import { name, age } from './bases/01-types.ts';
 // import { charmander } from './bases/04-injection';
+// import { charmander } from './bases/05-decorators';
 
 import './style.css';
 import typescriptLogo from './typescript.svg';
 import viteLogo from '/vite.svg';
 import { setupCounter } from './counter.ts';
-import { charmander } from './bases/05-decorators';
+import { charmander } from './bases/06-decorators2';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
