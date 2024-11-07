@@ -2,3 +2,6 @@
 01-TypeScript-intro/dist
 02-card-leadership/node_modules
 02-card-leadership/dist
+03-pokedex/node_modules
+03-pokedex/dist
+03-pokedex/mongo
